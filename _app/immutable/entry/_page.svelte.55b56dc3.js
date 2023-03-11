@@ -1,4 +1,4 @@
-import{S as w,i as z,s as B,k as m,r as o,a as q,l as n,m as v,u as r,h as e,c as C,p as H,b as p,H as f,n as D}from"../chunks/index.faa0f4da.js";import{b as F}from"../chunks/paths.8d83df10.js";function I(j){let a,k,d,u,x,_,l,E,h,P,y,c,i,A;return{c(){a=m("h1"),k=o("sveltekit-gh-pages"),d=o(`
+import{S as w,i as z,s as B,k as m,r as o,a as q,l as n,m as v,u as r,h as e,c as C,p as H,b as p,H as f,n as D}from"../chunks/index.faa0f4da.js";import{b as F}from"../chunks/paths.4daaa4ad.js";function I(j){let a,k,d,u,x,_,l,E,h,P,y,c,i,A;return{c(){a=m("h1"),k=o("sveltekit-gh-pages"),d=o(`
 sd
 `),u=m("p"),x=o("Deployeds to GitHub Pages"),_=q(),l=m("p"),E=o("Visit "),h=m("a"),P=o("kit.svelte.dev"),y=o(" to read the documentation"),c=q(),i=m("a"),A=o("About"),this.h()},l(t){a=n(t,"H1",{class:!0});var s=v(a);k=r(s,"sveltekit-gh-pages"),s.forEach(e),d=r(t,`
 sd
